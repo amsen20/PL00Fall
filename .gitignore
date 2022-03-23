@@ -1,4 +1,4 @@
-solutions/*
 compiled/*
 *.rkt~
 .DS_Store
+._*
